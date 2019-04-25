@@ -347,13 +347,11 @@ background: url("https://pbs.twimg.com/media/D49JKILUUAE1q0G.jpg");
 background-size: cover;
 color: rgb(0,0,0,0);
   .tile.tile-16 .tile-inner {
-   
-    background: url("https://pbs.twimg.com/media/D49JKIKU8AAZRWN.jpg");
+   background: url("https://pbs.twimg.com/media/D49JKIKU8AAZRWN.jpg");
 background-size: cover;
 color: rgb(0,0,0,0);
   .tile.tile-32 .tile-inner {
-    
-    background: url("https://pbs.twimg.com/media/D4y6IjKXoAAVctD.jpg");
+   background: url("https://pbs.twimg.com/media/D4y6IjKXoAAVctD.jpg");
 background-size: cover;
 color: rgb(0,0,0,0);; }
   .tile.tile-64 .tile-inner {
