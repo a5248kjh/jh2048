@@ -323,7 +323,7 @@ hr {
   transition-property: transform; }
   .tile .tile-inner {
     border-radius: 3px;
-    background: url("https://pbs.twimg.com/media/D4y67JSX4AA5lBZ.jpg");
+    background: #f67c5f
 background-size: cover;
 color: rgb(0,0,0,0);
     text-align: center;
@@ -332,6 +332,8 @@ color: rgb(0,0,0,0);
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background: url("https://pbs.twimg.com/media/D49JKIKVUAUw-Mf.jpg");
+background-size: cover;
+color: rgb(0,0,0,0);
 background-size: cover;
 color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
